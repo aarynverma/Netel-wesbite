@@ -11,7 +11,7 @@ body {
   width: 50em;
   height: 4em;
   align-items: center;
-  margin-left: 19%;
+  margin: 0 auto;
   padding-left: 1em;
   border-left: rgb(218, 11, 11) solid 0.4em;
   position: relative;

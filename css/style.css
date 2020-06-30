@@ -1,0 +1,185 @@
+body {
+  background: rgb(13, 14, 14);
+  font-family: sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background: #292626;
+  width: 50em;
+  height: 4em;
+  align-items: center;
+  margin-left: 19%;
+  padding-left: 1em;
+  border-left: rgb(218, 11, 11) solid 0.4em;
+  position: relative;
+  bottom: -15px;
+}
+
+#nav {
+  height: 20px;
+  width: 20px;
+}
+
+.nav1 {
+  display: flex;
+  align-items: center;
+  font-family: "Roboto Mono";
+  font-size: 25px;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 2em;
+}
+
+img {
+  height: 550px;
+  width: 1150px;
+  margin: 0 4.8%;
+}
+
+.text_inside {
+  font-size: 42px;
+  font-weight: bold;
+  color: aliceblue;
+  margin-left: 32%;
+  position: relative;
+  top: -8em;
+}
+
+.boxes {
+  display: grid;
+  grid-template-columns: 280px 280px 280px;
+  grid-gap: 25px;
+  margin-left: 16%;
+  position: relative;
+  top: -8em;
+}
+
+.box {
+  padding: 2em 4em 4em 4em;
+  color: aliceblue;
+}
+
+#one {
+  background: rgb(189, 74, 28);
+}
+
+#two {
+  background: rgb(30, 190, 164);
+}
+
+#three {
+  padding-left: 3em;
+  padding-right: 2em;
+  background: rgb(250, 173, 6);
+}
+
+.logo1 {
+  height: 49px;
+  width: 60px;
+}
+
+.box_text {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.box_text2 {
+  font-size: 15px;
+  padding-top: 1em;
+}
+
+.page2 {
+  margin: 0em 7em;
+  display: flex;
+  color: aliceblue;
+}
+
+.image2 {
+  height: 20em;
+  width: 35em;
+}
+
+.mid2 {
+  margin-left: 1.75em;
+  padding: 1.7em 1.5em 1em 1em;
+  background-color: #292626;
+}
+
+.mid21 {
+  font-size: 35px;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+.mid22 {
+  padding-top: 1em;
+  font-size: 15px;
+}
+
+#button1 {
+  background: transparent;
+  border: white solid 0.1em;
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0.7em;
+  margin: 1em 0 0 0;
+}
+
+.page3 {
+  margin: 8em 20em;
+}
+.content2 {
+  color: aliceblue;
+  margin: 2em 0;
+}
+
+#mid21 {
+  margin-left: 3em;
+}
+
+.image_box {
+  margin: 0 10%;
+}
+
+.img {
+  height: 225px;
+  width: 325px;
+}
+
+.img2 {
+  height: 200px;
+  width: 245px;
+}
+
+.img11 {
+  display: flex;
+}
+
+.img12 {
+  display: flex;
+  margin-top: -3px;
+}
+
+.but1 {
+  background: transparent;
+  border: white solid 0.1em;
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0.9em 2em 0.9em 2em;
+  margin: 2em 0 0 40em;
+}

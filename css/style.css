@@ -244,7 +244,7 @@ img {
   margin: 0px auto;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 476px) {
   .text_inside {
     font-size: 70px;
     margin-left: 4em;
